@@ -322,8 +322,8 @@
         //    let startButton = document.querySelector('.todays-lessons-widget__button.todays-lessons-widget__button--start')//
         //  if (startButton && startButton.checkVisibility()) {
         //      startButton.style.display = 'none';
-            }
-        }
+        //    }
+        //}
 
         // hide "Today's" subtitle
         let lessonSubtitle = document.querySelector('.todays-lessons-widget__subtitle');
